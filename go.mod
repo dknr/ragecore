@@ -1,4 +1,4 @@
-module ragecore
+module github.com/dknr/ragecore
 
 go 1.27.0
 
